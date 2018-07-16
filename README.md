@@ -16,6 +16,6 @@ Android studio Setting
      Description: ndk build
      Program:D:\ndk\android-ndk-r17b\ndk-build.cmd
      WorkingDirectory:D:\Ndktest\app\src\main\libs
-     
+
 3.[File]/[Project Structure...]
   Android NDK location:  D:\ndk\android-ndk-r17b
